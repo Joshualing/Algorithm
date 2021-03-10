@@ -10,8 +10,8 @@ class MyCache {
     private ReentrantReadWriteLock rwLock = new ReentrantReadWriteLock();
 
     public void put(String key,Object value){
+        rwLock.writeLock().lock();
         try{
-            rwLock.writeLock().lock();
             System.out.println(Thread.currentThread().getName()+"\t"+"正在写入 key:"+key);
             try {
                 Thread.sleep(1*1000);
@@ -28,8 +28,8 @@ class MyCache {
     }
 
     public void get(String key){
+        rwLock.readLock().lock();
         try {
-            rwLock.readLock().lock();
             System.out.println(Thread.currentThread().getName()+"\t"+"正在读取 key:"+key);
             try {
                 Thread.sleep(1*1000);
