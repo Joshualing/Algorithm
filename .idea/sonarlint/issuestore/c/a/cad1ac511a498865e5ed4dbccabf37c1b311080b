@@ -1,0 +1,17 @@
+
+a
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(Şàà·şÿÿÿÿ
+a
+java:S2184'"FCast one of the operands of this multiplication operation to a "long".(ÍÁ”ëøÿÿÿÿ
+a
+java:S2184."FCast one of the operands of this multiplication operation to a "long".(í•Î¢øÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë½Æ—
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(ëáŒ²ÿÿÿÿÿ
+a
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ß•Äøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñ«¼Ìüÿÿÿÿ
+a
+java:S2142("FEither re-interrupt this method or rethrow the "InterruptedException".(ß•Äøÿÿÿÿ
+a
+java:S2142/"FEither re-interrupt this method or rethrow the "InterruptedException".(ß•Äøÿÿÿÿ

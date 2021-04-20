@@ -1,0 +1,28 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š‡íãúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÀµËš
+a
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ß•Äøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñ«™Äúÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(ƒ‰øÊ
+A
+java:S1860"&Synchronize on a new "Object" instead.(ÈÑ³şÿÿÿÿ
+^
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ
+c
+java:S1128"MRemove this unused import 'javax.print.attribute.standard.PrinterResolution'.(÷×±¬
+=
+java:S1604"(Make this anonymous inner class a lambda(£·®
+b
+java:S3008"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉæîÄ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(İ³¢é
+g
+java:S3008"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç‡ûõúÿÿÿÿ
+<
+java:S1860"&Synchronize on a new "Object" instead.(ºá£¨
+>
+java:S1604"(Make this anonymous inner class a lambda(ÿïŞß
+<
+java:S1860""&Synchronize on a new "Object" instead.(ºá£¨
+A
+java:S1860$"&Synchronize on a new "Object" instead.(ÈÑ³şÿÿÿÿ

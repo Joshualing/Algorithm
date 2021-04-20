@@ -1,0 +1,27 @@
+
+R
+java:S1481"0Remove this unused "allocation4" local variable.(Ø¾¤½üÿÿÿÿ8ÿÊîĞ/
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(óå¬ÿÿÿÿÿÿ8ÑßÚÿ‰/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼”±‡úÿÿÿÿ
+a
+java:S1854"?Remove this useless assignment to local variable "allocation3".(ş…áúÿÿÿÿ8ÿÊîĞ/
+\
+java:S1854	"?Remove this useless assignment to local variable "allocation1".(ŒÉ±Â8ÿÊîĞ/
+K
+java:S1659")Declare "allocation3" on a separate line.(Ø¾¤½üÿÿÿÿ8ÿÊîĞ/
+R
+java:S1481"0Remove this unused "allocation2" local variable.(Ø¾¤½üÿÿÿÿ8ÿÊîĞ/
+]	java:S125"<This block of commented-out lines of code should be removed.(¢Ûß´ıÿÿÿÿ8ÿÊîĞ/
+\
+java:S1854"?Remove this useless assignment to local variable "allocation4".(úŠ«ï8ÿÊîĞ/
+R
+java:S1481"0Remove this unused "allocation1" local variable.(Ø¾¤½üÿÿÿÿ8ÿÊîĞ/
+R
+java:S1481"0Remove this unused "allocation3" local variable.(Ø¾¤½üÿÿÿÿ8ÿÊîĞ/
+K
+java:S1659")Declare "allocation2" on a separate line.(Ø¾¤½üÿÿÿÿ8ÿÊîĞ/
+K
+java:S1659")Declare "allocation4" on a separate line.(Ø¾¤½üÿÿÿÿ8ÿÊîĞ/
+a
+java:S1854
+"?Remove this useless assignment to local variable "allocation2".(Û—¯¶üÿÿÿÿ8ÿÊîĞ/

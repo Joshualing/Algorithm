@@ -1,0 +1,14 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«¡î
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿ª§úÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©Äšñ
+3
+java:S1118"Hide this public constructor.(Üªˆ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Œ»±R
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(½’Êùÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ü£‹í
+S	java:S106"9Replace this use of System.out or System.err by a logger.(šŒÓÿÿÿÿÿ
+9
+java:S2440#"#Remove this instantiation of "son".(Ğ¡¦Â

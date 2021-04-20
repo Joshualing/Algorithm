@@ -47,6 +47,7 @@ enum Scene {
 
 public class ofDemo {
     public static void main(String[] args) {
-        System.out.println(Scene.of(-1));
+        System.out.println(Scene.of(1));
+        System.out.println(Scene.of(1).name());
     }
 }
